@@ -1,1 +1,1 @@
-git remote add origin git@github.com:ahongfenga/learngit.git
+git remote add origin git@github.com:ahongfenga/learngit.git这是一个测试
